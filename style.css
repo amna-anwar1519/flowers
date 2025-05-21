@@ -22,3 +22,8 @@ body{
   font-weight: bolder;;
   border-radius: 25px;
 }
+button:hover{
+  background-color: purple;
+  color: white;
+  cursor: pointer;
+}
